@@ -28,4 +28,3 @@ Replit: Initial development environment.
 GitHub: Current version control and collaboration platform.
 
 
- https://pages.git.txstate.edu/zun7/ClimateChangeWeb/
